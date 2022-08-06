@@ -2,7 +2,7 @@
 ➔ **Cách làm cho tài khoản Discord của bạn online 24/7 mà không cần bạn online ;)**
 
 ---
-✅ Nhập vào [Replit](replit.com)
+✅ Nhập vào [Replit](replit.com) để có thể sử dụng.
 
 ▶️ Giúp bạn online **24/7** mà không cần giám sát!
 
