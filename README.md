@@ -1,4 +1,4 @@
-# Discord-24-7
+# Discord Online 24/7
 ➔ **Cách làm cho tài khoản Discord của bạn online 24/7 mà không cần bạn online ;)**
 
 ---
