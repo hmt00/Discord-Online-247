@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/HMT2008/Discord-Online-24-7/main/image.png"/>
 
 ---
-✅ Nhập vào [Replit](replit.com) để có thể sử dụng.
+✅ Nhập vào [Replit](https://replit.com) để có thể sử dụng.
 
 ▶️ Giúp bạn online **24/7** mà không cần giám sát!
 
