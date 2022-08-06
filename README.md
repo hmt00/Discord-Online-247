@@ -5,7 +5,7 @@
 
 ✅ Giúp bạn online **24/7** mà không cần giám sát!
 
-🔔 Nhớ Subscribe kênh [HMT YT](https://www.youtube.com/channel/UCkAI9_OVMYeexK_gk2HgZZg).
+🔔 Nhớ Like, Subscribe kênh [HMT YT](https://www.youtube.com/channel/UCkAI9_OVMYeexK_gk2HgZZg).
 
 💾 Code sạch sẽ không chứa **Malware** và **Nuke**.
 
