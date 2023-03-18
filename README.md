@@ -10,5 +10,5 @@
 
 - 🔔 Nhớ Like, Subscribe kênh [HMT YT](https://www.youtube.com/channel/UCkAI9_OVMYeexK_gk2HgZZg)
 
-- ✅ Phiên bản: **v1.0**
+- ✅ Phiên bản: **v1.5**
 
