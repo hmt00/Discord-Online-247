@@ -10,5 +10,7 @@
 
 - 🔔 Nhớ Like, Subscribe kênh [HMT YT](https://www.youtube.com/channel/UCkAI9_OVMYeexK_gk2HgZZg)
 
-- ✅ Phiên bản: **v1.0**
+- 🛑 THÔNG BÁO: **Replit đã bị lỗ hổng bảo mật nên không thể import từ Github** => Chuyển sang replit
+
+
 
