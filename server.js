@@ -2,7 +2,7 @@ const express = require("express");
 const server = express();
 
 server.all("/", (req, res) => {
-  res.send("Nice!");
+  res.send("Your Discord Account Is Online 24/7! - Subscribe HMT YT :D");
 });
 
 function keepAlive() {
